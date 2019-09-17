@@ -1,6 +1,6 @@
 class Dog 
-  @fido = fido
-    @snoopy = snoopy
-    @lassie = lassie
+  @dog1= fido
+    @dog1 = snoopy
+    @dog3 = lassie
 end
 
