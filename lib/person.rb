@@ -1,4 +1,4 @@
 class Person
-  @adele_goldberg = adele_goldberg
-  @alan_kay = alan_kay
+  @person1 = adele_goldberg
+  @person2 = alan_kay
 end
